@@ -1,3 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+pom.xml.versionsBackup
+release.properties
+
 # Compiled class file
 *.class
 
